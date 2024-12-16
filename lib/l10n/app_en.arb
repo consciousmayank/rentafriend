@@ -1,0 +1,26 @@
+{
+    "@@locale": "en",
+    "appTitle": "My App",
+    "@appTitle": {
+        "description": "The application title"
+    },
+    "welcomeMessage": "Welcome to My App",
+    "@welcomeMessage": {
+        "description": "Welcome message shown on home screen"
+    },
+    "loading": "Loading ...",
+    "@loading": {
+        "description": "Loading message shown on startup screen"
+    },
+    "showDialogTitle": "Show Dialog",
+    "@showDialogTitle": {
+        "description": "Title of the dialog shown on home screen"
+    },
+    "showBottomSheetTitle": "Show Bottom Sheet",
+    "@showBottomSheetTitle": {
+        "description": "Title of the bottom sheet shown on home screen"
+    },
+    "english": "English",
+    "spanish": "Spanish",
+    "hindi": "Hindi"
+} 

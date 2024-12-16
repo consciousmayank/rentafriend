@@ -1,0 +1,14 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    prefer_const_constructors: true
+
+analyzer:
+  errors:
+    prefer_const_constructors: warning
+  exclude:
+    - "**/*.g.dart"
+    - "!lib/ui/views/**/*_view.dart"
+    - "!lib/features/**/*_view.dart"
+    - "!lib/app/app.dart"

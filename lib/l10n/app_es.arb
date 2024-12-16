@@ -1,0 +1,11 @@
+{
+    "@@locale": "es",
+    "appTitle": "Mi Aplicación",
+    "welcomeMessage": "Bienvenido a Mi Aplicación",
+    "loading": "Cargando ...",
+    "showDialogTitle": "Mostrar Diálogo",
+    "showBottomSheetTitle": "Mostrar Bottom Sheet",
+    "english": "Inglés",
+    "spanish": "Español",
+    "hindi": "Hindi"
+} 
